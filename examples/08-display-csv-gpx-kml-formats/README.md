@@ -33,7 +33,7 @@ lat,lon,name
     <description>Attached to the ground. Intelligently places itself
        at the height of the underlying terrain.</description>
     <Point>
-      <coordinates>-122.0822035425683,37.42228990140251,0</coordinates>
+      <coordinates>-124.0822035425683,37.42228990140251,0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
